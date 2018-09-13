@@ -6,8 +6,7 @@ import java.util.Scanner;
 public class Two_Repeated_Char {
 	// among the repeated characters remove one from the String
 	public static void main(String[] args) {
-		try {
-			// String l = "aeeeecec";
+		try {			
 			Scanner scan = new Scanner(System.in);
 			String s = scan.next();
 			int count = 1;
