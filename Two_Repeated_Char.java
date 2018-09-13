@@ -1,6 +1,5 @@
 package Learning_Pattern_Package;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 public class Two_Repeated_Char {
